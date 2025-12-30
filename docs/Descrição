@@ -1,4 +1,4 @@
-#Registro de Pacientes
+# Registro de Pacientes
 
   Uma clínica precisa ter controle da entrada de pacientes para consultas, o que garante um acesso fácil e rápido dos pacientes, tanto para funcionários da recepção quanto para os médicos responsáveis por cada paciente. 
 O uso de aplicação torna mais fácil o acesso, diferente do armazenamento de dados de forma analógica, o que impede essa facilidade e por outro lado, ela implica em um cuidado maior quanto a conservação das fichas de cada paciente, o que pode resultar na perca desses documentos. 
