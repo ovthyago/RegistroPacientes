@@ -1,4 +1,11 @@
 #Registro de Pacientes
 
-  Uma clínica precisa ter controle da entrada de pacientes para consultas, o que garante um acesso fácil e rápido dos pacientes, tanto para funcionários da recepção quanto para os médicos responsáveis por cada paciente. O uso de aplicação torna mais fácil
-o acesso, diferente do armazenamento de dados de forma analógica, o que impede essa facilidade e por outro lado, ela implica em um cuidado maior quanto a conservação das fichas de cada paciente, o que pode resultar na perca desses documentos. 
+  Uma clínica precisa ter controle da entrada de pacientes para consultas, o que garante um acesso fácil e rápido dos pacientes, tanto para funcionários da recepção quanto para os médicos responsáveis por cada paciente. 
+O uso de aplicação torna mais fácil o acesso, diferente do armazenamento de dados de forma analógica, o que impede essa facilidade e por outro lado, ela implica em um cuidado maior quanto a conservação das fichas de cada paciente, o que pode resultar na perca desses documentos. 
+Sendo assim, o Hospital precisa de uma aplicação para armazenar o dados de pacientes que serão atendididos na unidade. A aplicação pode ser utilizada, inicialmente por recepcionista e posteriormente pelo médico
+(Aṕos a consulta marcada).
+
+  A aplicação terá dois aspectos, o do recepcionista e do médico. O recepcionista poderá armazenar: nome, telefone, CPF, endereço (rua, número e bairro),  nome (pessoa responsável), telefone (pessoa responsável),
+sintomas, se é alérgico, se toma remédio de uso controlado e nome do médico responsável. O médico terá acesso a todas as informações anteriores, adicionado a isso, ele poderá armazenar: diagnóstico, remédios receitados,
+data de retorno (se necessário).
+
