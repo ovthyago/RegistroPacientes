@@ -1,2 +1,16 @@
-**US001**:
+US001: Eu como Recepcionista de um hospital eu quero me cadastrar na aplicação para gerenciar as consultas da clínica que trabalho.
+
+US002: Eu como recepcionista de um hospital preciso acessar o cadastro de um paciente para saber se ele possui cadastro (ou precisa se cadastra) e ter maiores informações sobre sua consulta.  
+
+US003: Eu como recepcionista de um hospital preciso cadastrar um paciente.
+
+US005: Eu como médico de um hospital eu quero me cadastrar na aplicação de gerencimaneto de atendimentos do hospital que eu trabalho.
+
+US006: Eu como médico de um hospital preciso ter acesso  a lista de paciente que irei atender no dia no hospital que trabalho.
+
+US007: Eu como médico de um hospital preciso ter acesso as dados de cada paciente que irei atender durante o dia.
+
+US008: Eu como médico preciso armazenar dados referentes a consulta de cada paciente.
+
+
 
