@@ -2,19 +2,24 @@
 
  Gestão Digital de Atendimento Clínico
 
-Uma clínica necessita de um controle rigoroso na entrada de pacientes para consultas, garantindo um acesso ágil e eficiente tanto para a equipe da recepção quanto para os médicos responsáveis. A implementação de uma aplicação digital otimiza esse acesso, superando as limitações do armazenamento analógico, que dificulta a busca de informações e exige cuidados excessivos com a conservação física das fichas, cujo manuseio constante pode resultar na perda ou deterioração de documentos.
+Uma clínica necessita de um controle rigoroso na entrada de pacientes para consultas, garantindo um acesso ágil e eficiente tanto para a equipe da recepção quanto para os médicos responsáveis. A implementação de uma 
+aplicação digital otimiza esse acesso, superando as limitações do armazenamento analógico, que dificulta a busca de informações e exige cuidados excessivos com a conservação física das fichas, cujo manuseio constante 
+pode resultar na perda ou deterioração de documentos.
 
-Dessa forma, a unidade hospitalar requer uma aplicação para centralizar os dados dos pacientes atendidos. O sistema será operado inicialmente pelo recepcionista e, em uma etapa posterior (após o agendamento), pelo médico responsável.
-Aspectos e Funcionalidades do Sistema
+Dessa forma, a unidade hospitalar requer uma aplicação para centralizar os dados dos pacientes atendidos. O sistema será operado inicialmente pelo recepcionista e, em uma etapa posterior (após o agendamento), pelo 
+médico responsável. Aspectos e Funcionalidades do Sistema
 
 A aplicação será dividida em dois perfis de acesso:
 
-    Perfil do Recepcionista: Responsável pelo cadastramento e armazenamento de dados fundamentais, incluindo: nome completo, telefone, CPF, endereço (rua, número e bairro), nome e telefone de um responsável, sintomas relatados, histórico de alergias, uso contínuo de medicamentos e o nome do médico assistente.
+    Perfil do Recepcionista: Responsável pelo cadastramento e armazenamento de dados fundamentais, incluindo: nome completo, telefone, CPF, endereço (rua, número e bairro), nome e telefone de um responsável, sintomas 
+relatados, histórico de alergias, uso contínuo de medicamentos e o nome do médico assistente.
 
-    Perfil do Médico: Terá acesso integral aos dados inseridos na recepção e poderá complementar o prontuário com: diagnóstico clínico, medicamentos prescritos e definição de data para retorno, se necessário.
+    Perfil do Médico: Terá acesso integral aos dados inseridos na recepção e poderá complementar o prontuário com: diagnóstico clínico, medicamentos prescritos e definição de data para retorno, se necessário. Fluxo 
+Operacional
 
-Fluxo Operacional
+Além do cadastramento, o recepcionista realizará buscas por CPF ou nome para verificar se o paciente já possui registro ou se trata de um retorno agendado. A manutenção dos dados pessoais é indispensável para 
+comunicações eventuais, como remarcações de consultas ou alterações na escala médica. Já as informações clínicas (sintomas, alergias e medicamentos em uso) são cruciais para garantir o bem-estar do paciente, prevenindo 
+que qualquer intervenção coloque sua saúde em risco.
 
-Além do cadastramento, o recepcionista realizará buscas por CPF ou nome para verificar se o paciente já possui registro ou se trata de um retorno agendado. A manutenção dos dados pessoais é indispensável para comunicações eventuais, como remarcações de consultas ou alterações na escala médica. Já as informações clínicas (sintomas, alergias e medicamentos em uso) são cruciais para garantir o bem-estar do paciente, prevenindo que qualquer intervenção coloque sua saúde em risco.
-
-O médico, por sua vez, terá acesso à lista de pacientes agendados para o dia. Ao selecionar o nome de um paciente, poderá analisar o histórico e os dados coletados antes mesmo do início da consulta, facilitando a compreensão de cada caso. Durante o atendimento, o médico poderá editar e preencher os campos de diagnóstico e prescrição, além de formalizar o agendamento de uma nova data para retorno, caso seja preciso.
+O médico, por sua vez, terá acesso à lista de pacientes agendados para o dia. Ao selecionar o nome de um paciente, poderá analisar o histórico e os dados coletados antes mesmo do início da consulta, facilitando 
+a compreensão de cada caso. Durante o atendimento, o médico poderá editar e preencher os campos de diagnóstico e prescrição, além de formalizar o agendamento de uma nova data para retorno, caso seja preciso.
