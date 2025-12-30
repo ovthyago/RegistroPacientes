@@ -4,23 +4,25 @@ P01: Cadastro Funcionários (Médico/Recepcionista)
 
 P02: Cadastro de Pacientes
 
+P03: Busca de pacientes
+
 P03: Acesso a agenda de atendimentos
 
 P04: Edição de dados do paciente durante a consulta (diagnóstico e medicamento receitado)
 
 Should Have
 
-P04:
+P05: Acesso a data de agendamento de retorno
 
-P05: 
+P06: Atribuição do médico ao paciente
 
-P06:
+P07: Destaque visual de alergia do paciente
 
 Could Have
 
-P07:
+P08: Histórico de consultas
 
-P08:
+P09: Impressão de receituário
 
-P09:
+P010: Status de fluxo (Se o paciente está "Em atendimento", "Aguardando" ou "Finalizado")
 
