@@ -1,1 +1,12 @@
 
+  Recepcionista --> (Cadastrar paciente)
+  Recepcionista --> (Atualizar dados do paciente)
+  Recepcionista --> (Buscar paciente por CPF ou nome)
+  Recepcionista --> (Registrar informações clínicas iniciais)
+  Recepcionista --> (Consultar agenda de pacientes)
+
+  Medico --> (Consultar lista de pacientes do dia)
+  Medico --> (Visualizar prontuário do paciente)
+  Medico --> (Registrar diagnóstico)
+  Medico --> (Prescrever medicamentos)
+  Medico --> (Agendar retorno)
