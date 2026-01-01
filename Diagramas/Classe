@@ -1,1 +1,86 @@
 
+# Paciente
+
+Atributos
+
++ Nome: String
++ CPF: String
++ Rua: String
++ Número: int
++ Complemento: String
++ Tipo Sanguíneo: String
++ Alergia: String
+
+# Funcionário
+
+Atributos
+
++ TipoFuncionário: String
++ Nome: String
++ Matrícula: String
++ CPF: String
++ Identidade: String
++ DataNascimento: Date
+
+# CadastroPaciente
+
+Atributos
+
++ CPFBuscar: String
++ NomeBuscar: String
+
+Métodos
+
+BuscarPaciente(): void
+CadastrarPaciente(): void
+Confirmação(): void
+
+# CadastroFuncionário
+
+Atributos
+
++ CPFBuscar: String
++ NomeBuscar: String
+
+Métodos
+
++ BuscarFuncionário(): void
++ CadastroFuncionário(): void
++ Confirmação(): void
+
+
+# Agendar
+
+Atributos
+
++ DataConsulta: Date
++ Médico: String
++ Status: String
+
+Métodos
+
++ Consulta(): void
++ Imprimir(): void
++ Confirmar(): void
++ Cancelar(): void
++ Mensagem(): void
+
+# Atendimento
+
+Atributos
+
++ Diagnóstico: String
++ Medicamento: String
++ DataRetorno: Date
+
+Métodos
+
++ AcessarAtendimento(): void
++ BuscarATendimento(): void
++ ImprimirAtendimento(): void
+
+
+
+
+
+
