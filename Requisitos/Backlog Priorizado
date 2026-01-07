@@ -1,28 +1,27 @@
-Must Have
+Must Have // O núcleo funcional para que a clínica possa operar minimamente.
 
-P01: Cadastro Funcionários (Médico/Recepcionista)
+    P01: Gestão de Identidades e Níveis de Acesso: Cadastro diferenciado de funcionários (Médico vs. Recepcionista) com permissões específicas (ex: recepcionista não vê prontuário).
 
-P02: Cadastro de Pacientes
+    P02: Registro Unificado de Pacientes (Prontuário Básico): Cadastro de dados demográficos e de contato do paciente.
 
-P03: Busca de pacientes
+    P03: Central de Busca e Localização de Pacientes: Filtros por nome, CPF ou data de nascimento para agilizar o atendimento na recepção.
 
-P03: Acesso a agenda de atendimentos
+    P04: Agenda Dinâmica de Atendimentos: Visualização clara das janelas de horário e ocupação diária/semanal.
 
-P04: Edição de dados do paciente durante a consulta (diagnóstico e medicamento receitado)
+    P05: Registro de Evolução Clínica e Prescrição: Módulo de consulta onde o médico registra o diagnóstico (CID) e a conduta medicamentosa.
 
-Should Have
+Should Have (Desejável) // Ítens que trazem eficiência e evitam erros humanos graves.
 
-P05: Acesso a data de agendamento de retorno
+    P06: Alerta Crítico de Alergias e Restrições: Destaque visual imediato no prontuário e na tela de consulta para evitar erros de prescrição.
 
-P06: Atribuição do médico ao paciente
+    P07: Vinculação Médico-Paciente (Médico de Referência): Atribuição de um profissional responsável para garantir a continuidade do cuidado.
 
-P07: Destaque visual de alergia do paciente
+    P08: Gestão de Retornos e Prazos: Controle automático de datas para consultas de retorno, facilitando o agendamento preventivo.
 
-Could Have
+Could Have // Melhorias na experiência do usuário e automação de tarefas manuais.
 
-P08: Histórico de consultas
+    P09: Painel de Fluxo e Status da Jornada (Waitlist): Gestão visual do status do paciente ("Aguardando", "Em triagem", "Em consulta", "Finalizado").
 
-P09: Impressão de receituário
+    P10: Histórico Longitudinal de Consultas: Linha do tempo com todas as passagens anteriores do paciente pela clínica.
 
-P010: Status de fluxo (Se o paciente está "Em atendimento", "Aguardando" ou "Finalizado")
-
+    P11: Módulo de Impressão e Assinatura Digital: Geração de documentos (receitas, atestados) em PDF formatado para impressão ou envio digital.
