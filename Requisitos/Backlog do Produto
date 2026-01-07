@@ -2,9 +2,20 @@
 
 Épico 1: Gestão cadastral
 
-Épico 2: Painel de cadastro (Paciente)
+Descrição: 
+
+Essa parte se refere a ações necessárias para implementação das funcionalidades referentes a acesso, busca e atividades que dependem de cadastro prévio (login)
+
+Épico 2: Painel de cadastro (Paciente/Funcionário) 
+
+Descrição: 
+
+Referente as ações necessárias para implementar as classes (CadastroFuncionário) e métodos(CadastrarFuncionário) relacionados a cadastro. 
 
 Épico 3: Painel de atendimento
 
+Descrição:
 
+Ações necessárias para implementar funcionalidades relacionadas a prática de atendimento realizada pelos médicos, como a realização de diagnóstico, receita de medicamento, data para retorno (caso necessário), 
+impressão de ficha de atendimento.
 
